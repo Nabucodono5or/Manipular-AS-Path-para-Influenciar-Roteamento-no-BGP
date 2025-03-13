@@ -1,5 +1,3 @@
-# Manipular-AS-Path-para-Influenciar-Roteamento-no-BGP
-
 # Manipular AS-Path para Influenciar Roteamento no BGP
 
 ## **Descrição**
